@@ -2,7 +2,7 @@ package dp.C.P1044栈R;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//https://www.luogu.com.cn/problem/P1044
 public class Main {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);

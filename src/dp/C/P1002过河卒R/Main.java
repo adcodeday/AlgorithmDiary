@@ -1,7 +1,7 @@
-package dp.C.过河卒R;
+package dp.C.P1002过河卒R;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//https://www.luogu.com.cn/problem/P1002
 public class Main {
     public static class Point{
         public int value=0;
