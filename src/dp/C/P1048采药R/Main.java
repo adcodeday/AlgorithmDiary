@@ -1,4 +1,4 @@
-package dp.P1048采药R;
+package dp.C.P1048采药R;
 
 import java.util.ArrayList;
 import java.util.Scanner;

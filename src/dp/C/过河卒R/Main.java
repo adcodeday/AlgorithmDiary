@@ -1,4 +1,4 @@
-package dp.过河卒R;
+package dp.C.过河卒R;
 import java.util.ArrayList;
 import java.util.Scanner;
 

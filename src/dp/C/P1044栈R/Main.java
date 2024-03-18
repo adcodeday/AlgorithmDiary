@@ -1,4 +1,4 @@
-package dp.P1044栈R;
+package dp.C.P1044栈R;
 
 import java.util.ArrayList;
 import java.util.Scanner;

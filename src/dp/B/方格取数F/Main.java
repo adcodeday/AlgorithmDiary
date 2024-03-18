@@ -1,4 +1,4 @@
-package dp.方格取数F;
+package dp.B.方格取数F;
 import java.util.ArrayList;
 import java.util.Scanner;
 
