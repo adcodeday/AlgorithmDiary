@@ -1,4 +1,4 @@
-package dp.C.P1115最大子段和;
+package dp.C.P1115最大子段和R;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -25,6 +25,5 @@ public class Main {
                 max= dp.get(i);
         }
         System.out.println(max);
-        return;
     }
 }
