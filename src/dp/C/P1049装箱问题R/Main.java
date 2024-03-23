@@ -2,7 +2,6 @@ package dp.C.P1049装箱问题R;
 
 import java.util.*;
 
-
 //https://www.luogu.com.cn/problem/P1049
 public class Main {
     public static void main(String[] args) {

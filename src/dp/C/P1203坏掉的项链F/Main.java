@@ -2,6 +2,7 @@ package dp.C.P1203坏掉的项链F;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+//https://www.bilibili.com/video/BV1JA411H7eN/?spm_id_from=333.337.search-card.all.click&vd_source=0ab45cb0697be9cde13413384592f9a9
 //上一次用dp写的实在过于屎山，而且测试只得了60分，实在改不动了，这次换个思路
 public class Main {
     public static void main(String[] args) {
